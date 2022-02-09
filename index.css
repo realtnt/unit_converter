@@ -37,6 +37,7 @@ div#top {
                     hsl(331deg 96% 60%) 100%
                     );
     color: white;
+    border-radius: 10px 10px 0 0;
 }
 
 #user_input {
